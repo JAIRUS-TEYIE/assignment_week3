@@ -6,15 +6,8 @@
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <meta http-equiv="X-UA-Compatible" content="ie=edge">
-    <title>Project 3</title>
+    
 
-<style>
-  
-    .alignment2
-    {
-      display:block; justify-content:baseline; align-items:baseline;
-    } 
-</style>
 </head>
 <body>
     <p style="color:blue"><b>VIHIGA COUNTY GOVERNMENT.</b></p>
